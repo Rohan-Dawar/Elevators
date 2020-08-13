@@ -2,11 +2,10 @@
 Pygame / Tkinter Elevator App
 
 ### Getting Started
-1. If you have Python 3 Installed:
-    - Run the Launcher.py to select the number of floors and elevators -OR-
-    - Run the game.py to default to a 3x3 grid
-2. If you are on Windows:
-    - Run the Launcher.exe file
+1. Make sure you have Python 3 Installed
+2. Run:
+    - Launcher.py to select the number of floors and elevators -OR-
+    - game.py to default to a 3x3 grid
   
 ### Controls
 - Click on a floor to call an elevator
