@@ -1,5 +1,5 @@
 # Elevators
-Pygame / Tkinter Elevator App
+An Elevator Control System App built with Pygame and Tkinter 
 
 ### Getting Started
 1. Make sure you have Python 3 Installed
